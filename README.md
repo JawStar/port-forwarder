@@ -66,3 +66,9 @@ Windows: Right-click on Command Prompt and choose "Run as Administrator".
 macOS/Linux: Use sudo:
 
 sudo python3 pf.py
+
+## 🤑 DONATE ME 🥷
+
+ <a href="https://jawstar.medium.com" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-FFA116?style=for-the-badge&logo=medium&logoColor=Black" alt="Medium" />
+  </a>
