@@ -72,6 +72,7 @@ sudo python3 pf.py
  <a href="https://jawstar.medium.com" target="_blank">
     <img src="https://img.shields.io/badge/Medium-FFA116?style=for-the-badge&logo=medium&logoColor=Black" alt="Medium" />
   </a>
-a href="https://buymeacoffee.com/jawstar_9999" target="_blank">
+
+<a href="https://buymeacoffee.com/jawstar_9999" target="_blank">
     <img src="https://img.shields.io/badge/buymeacoffee-FFA116?style=for-the-badge&logo=buymeacoffee&logoColor=Yellow" alt="buymeacoffee" />
   </a>
